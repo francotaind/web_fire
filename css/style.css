@@ -249,7 +249,7 @@ a:focus {
 }
 
 .slider_section .img_container {
-  border: 7px solid #7b57b2;
+  border: 7px solid $primary1;
   border-radius: 100%;
   overflow: hidden;
 }
@@ -403,7 +403,7 @@ a:focus {
 }
 
 .about_section .img_container .img-box {
-  border: 5px solid #7b57b2;
+  border: 5px solid $primary1;
   border-radius: 100%;
   overflow: hidden;
 }
